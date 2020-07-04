@@ -63,3 +63,13 @@ twitterBtn.addEventListener('click', tweetQuote);
 
 // On Load
 getQuote();
+
+// Register the service worker
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker
+      .register('./serviceWorker.js')
+      .then((res) => console.log('service worker registered!'))
+      .catch((err) => console.log('service worker is not registered', err));
+  });
+}
