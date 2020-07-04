@@ -1,0 +1,25 @@
+{
+  "name": "QuoteGen",
+  "short_name": "Quote Generator",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#444",
+  "theme_color": "#db4938",
+  "orientation": "portrait-primary",
+  "icons": [{
+      "src": "/img/favicon-32x32.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "/img/android-chrome-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/img/android-chrome-256x256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    }
+  ]
+}
