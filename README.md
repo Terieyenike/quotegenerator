@@ -27,6 +27,6 @@ Icons from [Fontawesome](https://fontawesome.com/)
 
 Netlify
 
-Project [view](https://generate-quote.netlify.app/)
+Project [view](https://terieyenike.github.io/quotegenerator/)
 
 + Clone the repo and contribute if you find this useful and definitely give it a star.
