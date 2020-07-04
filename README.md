@@ -13,7 +13,7 @@ PWA to enable users have the same experience as an app-like installation on thei
 
 # Final Output
 
-![Quote generator](./dist/img/shot.png)
+![Quote generator](./img/shot.png)
 
 # Getting Started
 
